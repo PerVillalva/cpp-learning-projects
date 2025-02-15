@@ -1,0 +1,45 @@
+# CLion-specific files
+.idea/
+cmake-build-*/
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+Makefile
+CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+
+# Compiled binary files
+*.o
+*.obj
+*.so
+*.exe
+*.dll
+*.a
+*.lib
+*.out
+
+# Debugging files
+*.dSYM/
+*.pdb
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# CLion Run/Debug configuration files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/modules.xml
+.idea/cmake.xml
+.idea/misc.xml
+.idea/inspectionProfiles/
+
+# System-specific files
+.DS_Store
+Thumbs.db
