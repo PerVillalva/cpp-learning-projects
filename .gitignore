@@ -6,6 +6,7 @@ cmake-build-*/
 CMakeCache.txt
 CMakeFiles/
 CMakeLists.txt.user
+CMakeLists.txt
 Makefile
 CMakeScripts/
 CTestTestfile.cmake
